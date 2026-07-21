@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my 1st git repository<br>
-Author Name- Keerthana Jinnala
+Author Name- Keerthana Jinnala (MVGR College)
